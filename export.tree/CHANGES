@@ -1,0 +1,4 @@
+1.1.0 2026-09-04
+  - Where runs have been identified as consistent with a mind-blank episode according to our assessment, two TSV files are provided corresponding to the original, uncorrected rating files (ending in “events_og.tsv”) and the newly corrected files (ending in “events_corrected.tsv”) which mark the first probe of the trial as “N/A”. 
+1.0.0 2026-02-04
+  - first upload
